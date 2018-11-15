@@ -1,0 +1,57 @@
+html {
+  background-color: aliceblue;
+  font-family: tahoma;
+}
+
+.wrapper {
+  width: 70%;
+}
+
+.center {
+  width: 50%;
+  max-width: 400px;
+  float: right;
+  margin: auto;
+}
+
+.searchbar {
+  background-color: white;
+  display: inline;
+}
+
+input {
+/*  width: 99%;    */
+  align-content: flex-end
+}
+
+img {
+  height: 80%;
+}
+
+
+
+h2 {
+  background-color: cornflowerblue;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.asideleft {
+  float: left;
+
+}
+.asideleft li {
+  display: block;
+  list-style-type: none;
+}
+
+.content {
+  background-color: white;
+  padding: 5px 0px 5px 10px;
+  margin-top: 10px;
+  font-weight: bold;
+  color: dimgrey;
+
+}
